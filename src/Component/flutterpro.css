@@ -1,0 +1,14 @@
+.flutterpro{
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+}
+.flutterimg{
+    margin: 20px;
+    width: 15%;
+    height: 50vh;
+    transition: transform 330ms;
+}
+
+.flutterimg:hover{
+    transform: scale(1.15);
+}
