@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5b8c43a1.css",
+    "main.js": "/portfolio/static/js/main.8c7cc200.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/2lap.jpg": "/portfolio/static/media/2lap.49736664e59a2cc86aa5.jpg",
+    "static/media/home.png": "/portfolio/static/media/home.58a9221b2cdf89738d6f.png",
+    "static/media/mission.png": "/portfolio/static/media/mission.775020821722bed10ef5.png",
+    "static/media/vision.png": "/portfolio/static/media/vision.c53f51796d37a30793bd.png",
+    "static/media/income.png": "/portfolio/static/media/income.67b5092833963f127f8a.png",
+    "static/media/facility.png": "/portfolio/static/media/facility.f4ade5cadc836fdb55d4.png",
+    "static/media/company.png": "/portfolio/static/media/company.892466434a0a0911ff11.png",
+    "static/media/entry profile.png": "/portfolio/static/media/entry profile.c62a5cd6c7d0326c2513.png",
+    "static/media/me5.jpeg": "/portfolio/static/media/me5.1115291592eb5ae879a6.jpeg",
+    "static/media/footer.png": "/portfolio/static/media/footer.c7d43939f4652de0588f.png",
+    "static/media/privacy policy.jpeg": "/portfolio/static/media/privacy policy.f94d96bc45cabb78d2fc.jpeg",
+    "static/media/Resume (1).pdf": "/portfolio/static/media/Resume (1).b1e403347814e5b7e63c.pdf",
+    "static/media/faqhelp.jpeg": "/portfolio/static/media/faqhelp.d4a0d6e3e3efdc5e7ccb.jpeg",
+    "static/media/mainscreen.jpeg": "/portfolio/static/media/mainscreen.478e66415679628aad55.jpeg",
+    "static/media/Faq.jpeg": "/portfolio/static/media/Faq.3302d0342d05ed1ccb6c.jpeg",
+    "static/media/4th.jpeg": "/portfolio/static/media/4th.1bc4bd48905f2bda231c.jpeg",
+    "static/media/2nd.jpeg": "/portfolio/static/media/2nd.27f8abcef03d9d5925ac.jpeg",
+    "static/media/3rd.jpeg": "/portfolio/static/media/3rd.5a6157985fc0cc00e4e1.jpeg",
+    "static/media/login.jpeg": "/portfolio/static/media/login.062f86cfa06ef749679d.jpeg",
+    "static/media/register.jpeg": "/portfolio/static/media/register.d6feba5388b57012e016.jpeg",
+    "static/media/splashscreen.jpeg": "/portfolio/static/media/splashscreen.7889ae8640059f127c19.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.5b8c43a1.css.map": "/portfolio/static/css/main.5b8c43a1.css.map",
+    "main.8c7cc200.js.map": "/portfolio/static/js/main.8c7cc200.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8c43a1.css",
+    "static/js/main.8c7cc200.js"
+  ]
+}
